@@ -1,0 +1,66 @@
+_repo: The-Tale-of-Jemima-Puddle-Duck_14814
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Potter, Helen Beatrix
+    - Heelis, Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: "The Tale of Jemima Puddle-Duck is a children's book written and illustrated\
+  \ by Beatrix Potter. It was first published by Frederick Warne & Co. in July 1908.\
+  \ Potter composed the book at Hill Top, a working farm in the Lake District she\
+  \ bought in 1905. Following the purchase, her works began to focus on country and\
+  \ village life, incorporating large casts of animal characters and sinister villains.\
+  \ Jemima Puddle-Duck was the first of her books set wholly at the farm with background\
+  \ illustrations based on the farm buildings and yard, and nearby locales.\nJemima\
+  \ is a domestic duck of the Aylesbury breed, whose eggs are routinely confiscated\
+  \ by the farmer's wife because she believes Jemima a poor sitter. Jemima searches\
+  \ for a place away from the farm where she can hatch her eggs without human interference,\
+  \ and naively confides her woes to a suave fox who invites her to nest in a shed\
+  \ at his home. Jemima accepts his invitation, little realising her danger: the fox\
+  \ plans to kill and roast her. Kep, a collie on the farm, discovers Jemima's whereabouts\
+  \ and rescues her just in time. Potter indicated the tale was a revision of \"Little\
+  \ Red Riding Hood\" with Jemima, the fox, and the dog parallels to the fairy tale's\
+  \ heroine, wolf, and woodcutter. Jemima, Kep, the farmer's wife, and her two children\
+  \ were all modelled on real world individuals at Potter's Hill Top farm.\nThe book\
+  \ was hugely popular. Spinoff merchandise included a soft Jemima doll in bonnet\
+  \ and shawl, a Jemima painting book in 1925, and illustrated fabric placemats hand-fashioned\
+  \ by Potter and distributed to friends. Critically, the book is considered one of\
+  \ Potter's best. In 1971, the tale became a segment in the Royal Ballet film, The\
+  \ Tales of Beatrix Potter, and, in 1992, it was telecast as an episode on the animated\
+  \ BBC anthology series, The World of Peter Rabbit and Friends.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2005-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14814'
+  wikidata: Q3079758
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic animals -- Juvenile fiction'
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcsh 'Ducks -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Foxes -- Juvenile fiction'
+title: The Tale of Jemima Puddle-Duck
+url: http://www.gutenberg.org/ebooks/14814
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Conte_de_Sophie_Can%C3%A9tang
+- https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%B2%E3%82%8B%E3%81%AE%E3%82%B8%E3%83%9E%E3%82%A4%E3%83%9E%E3%81%AE%E3%81%8A%E3%81%AF%E3%81%AA%E3%81%97
+- https://pt.wikipedia.org/wiki/The_Tale_of_Jemima_Puddle-Duck
+- https://en.wikisource.org/wiki/The_Tale_of_Jemima_Puddle-Duck
+- https://en.wikipedia.org/wiki/The_Tale_of_Jemima_Puddle-Duck
+- https://commons.wikimedia.org/wiki/Category:The_Tale_of_Jemima_Puddle-Duck
+- https://id.wikipedia.org/wiki/The_Tale_of_Jemima_Puddle-Duck
